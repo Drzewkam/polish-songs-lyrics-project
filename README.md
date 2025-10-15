@@ -75,4 +75,4 @@ Preprocess and clean text data
 ## 🧑‍💻 Author & Contact
 Kamil Drzewiecki
 Areas of interest: NLP, Text Classification, Machine Learning
-📧 [Your email] | 🐙 [GitHub link]
+📧 [[Linkedin](https://www.linkedin.com/in/kamil-drzewiecki-ds/)] | 🐙 [[GitHub link](https://github.com/Drzewkam)]
